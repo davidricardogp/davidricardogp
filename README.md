@@ -1,6 +1,6 @@
 # Hi, I'm David Ricardo Gonzales Peña
 
-**Economist | Research Assistant at IESE Business School | Innovation Policy & Entrepreneurship **
+Economist | Research Assistant at IESE Business School | Innovation Policy & Entrepreneurship
 
 I am a Research Assistant at the Entrepreneurship and Innovation Center at IESE Business School, based in Barcelona. My work focuses on applied research at the intersection of entrepreneurship, innovation policy and public-private collaboration.
 
