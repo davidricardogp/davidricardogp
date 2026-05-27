@@ -11,17 +11,17 @@ I have a background in Economics and experience in quantitative research, policy
 ## Research Interests
 
 - Innovation policy and entrepreneurship ecosystems  
-- Gender gaps in investment  
+- AI public policies  
 - Public policy for entrepreneurship  
 
 ---
 
 ## Currently Working On
 
-- Research on European deep-tech scaleups and the EU growth capital gap  
-- Analysis of corporate venturing models and public-private collaboration  
-- Projects on entrepreneurship, startups, and innovation ecosystems  
-
+- Research on Public Libraries and Crime: Evidence on Local Public Infrastructure and Criminality.
+- Research on Tax-Revenue Effects of Cannabis Legalisation in Switzerland and Europe.
+- Research on Gender Differences in Startup Investment Preferences: Evidence on Risk Perception, Portfolio Allocation, and Women’s Participation in Early-Stage Investing.
+- Public Policy, Fuel Taxation, and Price Elasticity: Evidence from Gasohol Demand in Lima Metropolitana and Callao
 ---
 
 ## Connect with Me
